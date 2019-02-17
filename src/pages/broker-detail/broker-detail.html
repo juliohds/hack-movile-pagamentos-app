@@ -13,7 +13,7 @@
     </ion-card-content>
 
     <ion-list>
-      <a href="tel:{{ broker.Phone__c }}" ion-item>
+      <button (click)="presentAlert()" ion-item>
         <ion-icon
           color="success"
           name="checkmark-circle-outline"
@@ -21,7 +21,7 @@
         ></ion-icon>
         <p>Selecione:</p>
         <h2>{{ broker.phone }}</h2>
-      </a>
+      </button>
       <a href="tel:{{ broker.phone }}" ion-item>
         <ion-icon name="close" color="danger" item-left></ion-icon>
         <p>Selecione:</p>
