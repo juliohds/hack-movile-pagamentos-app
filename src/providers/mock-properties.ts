@@ -150,7 +150,7 @@ let properties: Array<any> = [
     state: "SP",
     zip: "02420",
     price: "$15,00",
-    title: "City Living",
+    title: "Lanche - O melhor da região",
     bedrooms: 3,
     bathrooms: 1,
     long: -71.057352,

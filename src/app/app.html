@@ -27,7 +27,7 @@
         *ngFor="let menuItem of helpMenuItems"
         (click)="openPage(menuItem)"
       >
-        <ion-icon item-left [name]="menuItem.icon"></ion-icon>
+        <ion-icon item-left [name]="menuItem.icon" color="white"></ion-icon>
         {{ menuItem.title }}
       </button>
     </ion-list>

@@ -37,13 +37,13 @@ export class MyApp {
     this.initializeApp();
 
     this.appMenuItems = [
-      { title: "Cardápio", component: PropertyListPage, icon: "home" },
-      { title: "Acordos", component: BrokerListPage, icon: "people" },
+      { title: "Cardápio", component: PropertyListPage, icon: "book" },
+      { title: "Emprestimos", component: BrokerListPage, icon: "cash" },
       { title: "Favoritos", component: FavoriteListPage, icon: "star" },
       {
-        title: "Adiquirir Crédito",
+        title: "Carteira Digital",
         component: WelcomePage,
-        icon: "checkmark-circle"
+        icon: "card"
       }
     ];
 
@@ -53,7 +53,7 @@ export class MyApp {
     ];
 
     this.helpMenuItems = [
-      { title: "Página Inicial", component: WelcomePage, icon: "bookmark" },
+      { title: "Página Inicial", component: WelcomePage, icon: "home" },
       { title: "Sobre", component: AboutPage, icon: "information-circle" }
     ];
   }
