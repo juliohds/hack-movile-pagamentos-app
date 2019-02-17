@@ -1,0 +1,27 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Emprestimo Pendente</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="broker">
+  <ion-card>
+    <ion-card-content>
+      <img src="{{ broker.picture }}" />
+      <h2 style="color: black;">{{ broker.name }}</h2>
+      <h3 style="color: gray;">{{ broker.title }} + 3% de Juros</h3>
+    </ion-card-content>
+
+    <ion-list>
+      <a
+        href="assets/boleto/boleto-facil-exemplo.pdf"
+        download="myimage"
+        ion-item
+      >
+        <ion-icon color="success" name="print" item-left></ion-icon>
+        <p>Selecione:</p>
+        <h2>Baixar Boleto</h2>
+      </a>
+    </ion-list>
+  </ion-card>
+</ion-content>
