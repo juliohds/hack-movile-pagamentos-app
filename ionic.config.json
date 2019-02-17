@@ -1,6 +1,8 @@
 {
   "name": "dreamhouse-ionic3",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "v2": true,
   "typescript": true
