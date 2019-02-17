@@ -24363,8 +24363,7 @@ ion-navbar.toolbar {
 }
 
 .broker ion-card ion-card-content {
-  background-color: #84BF41;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   padding-bottom: 28px;
 }
@@ -24374,13 +24373,13 @@ ion-navbar.toolbar {
   width: 160px;
   border-radius: 50%;
   margin-top: -100px;
-  border: solid 4px #FFFFFF;
+  border: solid 4px #ffffff;
   display: inline;
 }
 
 .broker ion-card ion-card-content h2 {
   font-size: 2.5rem;
-  margin-top: .5rem;
+  margin-top: 0.5rem;
   color: white;
 }
 
@@ -24416,8 +24415,8 @@ page-welcome ion-slide p {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: rgba(132, 191, 65, 0.8);
-  color: #FFFFFF;
+  background-color: #bc2026;
+  color: #ffffff;
   padding: 28px 28px 48px 28px;
   font-size: 2.7rem;
   margin-bottom: 0;
@@ -24431,4 +24430,10 @@ page-welcome ion-slide img {
 
 page-welcome .swiper-pagination-bullet {
   background: white;
+}
+
+page-welcome .img-title {
+  position: relative;
+  left: 25%;
+  padding: 10px;
 }
