@@ -5,7 +5,7 @@ let brokers: Array<any> = [
     title: "R$ 100,00 - 17/02/2019",
     phone: "Aceitar Oferta",
     mobilePhone: "Recusar Empréstimo",
-    email: "Valor a ser pago 103,00 - em até 1 mês",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -13,9 +13,9 @@ let brokers: Array<any> = [
     id: 2,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 21/01/2019",
-    phone: "Remover a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "michael@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -23,9 +23,9 @@ let brokers: Array<any> = [
     id: 3,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 14/12/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "jonathan@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -33,9 +33,9 @@ let brokers: Array<any> = [
     id: 4,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 10/11/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "jen@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -43,9 +43,9 @@ let brokers: Array<any> = [
     id: 5,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 19/10/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "olivia@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -53,9 +53,9 @@ let brokers: Array<any> = [
     id: 6,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 15/09/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "miriam@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -63,9 +63,9 @@ let brokers: Array<any> = [
     id: 7,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 18/08/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "michelle@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   },
@@ -73,9 +73,9 @@ let brokers: Array<any> = [
     id: 8,
     name: "Aprovação de Crédito",
     title: "R$ 100,00 - 11/07/2018",
-    phone: "Adicionar a Carteira",
-    mobilePhone: "617-244-3672",
-    email: "victor@ionicrealty.com",
+    phone: "Aceitar Oferta",
+    mobilePhone: "Recusar Empréstimo",
+    email: "Valor a ser pago 103,00",
     picture:
       "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
   }

@@ -14,17 +14,21 @@
 
     <ion-list>
       <a href="tel:{{ broker.Phone__c }}" ion-item>
-        <ion-icon name="call" item-left></ion-icon>
+        <ion-icon
+          color="success"
+          name="checkmark-circle-outline"
+          item-left
+        ></ion-icon>
         <p>Selecione:</p>
         <h2>{{ broker.phone }}</h2>
       </a>
       <a href="tel:{{ broker.phone }}" ion-item>
-        <ion-icon name="call" item-left></ion-icon>
+        <ion-icon name="close" color="danger" item-left></ion-icon>
         <p>Selecione:</p>
         <h2>{{ broker.mobilePhone }}</h2>
       </a>
       <a ion-item>
-        <ion-icon name="mail" item-left></ion-icon>
+        <ion-icon name="cash" item-left></ion-icon>
         <p>Informações de Empréstimo</p>
         <h2>{{ broker.email }}</h2>
       </a>
