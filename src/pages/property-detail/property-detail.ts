@@ -36,7 +36,7 @@ export class PropertyDetailPage {
   favorite(property) {
     this.propertyService.favorite(property).then(property => {
       let toast = this.toastCtrl.create({
-        message: "Property added to your favorites",
+        message: "Item Adicionado no seu favoritos",
         cssClass: "mytoast",
         duration: 1000
       });
