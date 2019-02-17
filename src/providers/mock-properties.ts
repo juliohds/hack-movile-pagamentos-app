@@ -107,9 +107,8 @@ let properties: Array<any> = [
     bathrooms: 2,
     long: -71.084454,
     lat: 42.368168,
-    picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05.jpg",
-    thumbnail:
-      "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
+    picture: "assets/img/espetinhos.jpeg",
+    thumbnail: "assets/img/espetinhos.jpeg",
     tags: "contemporary",
     description: "Lorem ipsum dolor sit amet",
     broker: {
@@ -132,9 +131,8 @@ let properties: Array<any> = [
     bathrooms: 2,
     long: -71.052617,
     lat: 42.366855,
-    picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06.jpg",
-    thumbnail:
-      "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
+    picture: "assets/img/bolinhos.jpeg",
+    thumbnail: "assets/img/bolinhos.jpeg",
     tags: "colonial",
     description: "Lorem ipsum dolor sit amet",
     broker: {
@@ -157,9 +155,8 @@ let properties: Array<any> = [
     bathrooms: 1,
     long: -71.057352,
     lat: 42.365003,
-    picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07.jpg",
-    thumbnail:
-      "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
+    picture: "assets/img/lanchao.jpeg",
+    thumbnail: "assets/img/lanchao.jpeg",
     tags: "colonial",
     description: "Lorem ipsum dolor sit amet",
     broker: {
@@ -182,9 +179,8 @@ let properties: Array<any> = [
     bathrooms: 4,
     long: -71.121653,
     lat: 42.374117,
-    picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10.jpg",
-    thumbnail:
-      "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
+    picture: "assets/img/japa.jpeg",
+    thumbnail: "assets/img/japa.jpeg",
     tags: "victorian",
     description: "Lorem ipsum dolor sit amet",
     broker: {
