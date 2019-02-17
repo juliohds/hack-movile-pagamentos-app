@@ -7,8 +7,8 @@ let properties: Array<any> = [
     zip: "01742",
     price: "$39,90",
     title: "Promoção de pizzas Quint-Dom ",
-    bedrooms: 4,
-    bathrooms: 3,
+    bedrooms: 2,
+    bathrooms: 2.55,
     long: -71.11095,
     lat: 42.35663,
     picture: "assets/img/pizza-coke.jpeg",
@@ -17,10 +17,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 1,
-      name: "Caroline Kingsley",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -41,10 +41,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 1,
-      name: "Caroline Kingsley",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -65,10 +65,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 2,
-      name: "Michael Jones",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -89,10 +89,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 3,
-      name: "Jonathan Bradley",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jonathan_bradley.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -113,10 +113,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 4,
-      name: "Jennifer Wu",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -127,7 +127,7 @@ let properties: Array<any> = [
     zip: "02420",
     price: "$25,000",
     title: "Coxinha e Bolinho de Queijo - Promoção",
-    bedrooms: 4,
+    bedrooms: 2,
     bathrooms: 2,
     long: -71.052617,
     lat: 42.366855,
@@ -137,10 +137,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 5,
-      name: "Olivia Green",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -161,10 +161,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 6,
-      name: "Miriam Aupont",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -185,10 +185,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 7,
-      name: "Michelle Lambert",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -200,7 +200,7 @@ let properties: Array<any> = [
     price: "$450,000",
     title: "Seaport District Retreat",
     bedrooms: 3,
-    bathrooms: 3,
+    bathrooms: 2.55,
     long: -71.049327,
     lat: 42.35695,
     picture: "assets/img/bata.jpeg",
@@ -208,11 +208,11 @@ let properties: Array<any> = [
     tags: "contemporary",
     description: "Lorem ipsum dolor sit amet",
     broker: {
-      id: 2,
-      name: "Michael Jones",
-      title: "Senior Broker",
+      id: 8,
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -234,10 +234,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 1,
-      name: "Caroline Kingsley",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -249,7 +249,7 @@ let properties: Array<any> = [
     price: "$690,000",
     title: "Architectural Details",
     bedrooms: 3,
-    bathrooms: 3,
+    bathrooms: 2.55,
     lat: 42.349693,
     long: -71.084407,
     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11.jpg",
@@ -259,10 +259,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 4,
-      name: "Jennifer Wu",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   },
   {
@@ -273,8 +273,8 @@ let properties: Array<any> = [
     zip: "02420",
     price: "$845,000",
     title: "Contemporary Luxury",
-    bedrooms: 4,
-    bathrooms: 3,
+    bedrooms: 2,
+    bathrooms: 2.55,
     lat: 42.352466,
     long: -71.075311,
     picture: "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12.jpg",
@@ -284,10 +284,10 @@ let properties: Array<any> = [
     description: "Lorem ipsum dolor sit amet",
     broker: {
       id: 5,
-      name: "Olivia Green",
-      title: "Senior Broker",
+      name: "Empréstimo Disponivel",
+      title: "Saber mais",
       picture:
-        "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg"
+        "https://banner2.kisspng.com/20180407/joe/kisspng-computer-icons-tax-payment-money-svg-5ac92b5bbe29f9.4347121415231332757789.jpg"
     }
   }
 ];

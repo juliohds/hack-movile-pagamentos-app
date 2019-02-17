@@ -13,19 +13,19 @@
     </ion-card-content>
     <ion-list>
       <ion-item>
-        <ion-icon item-left name="moon"></ion-icon>
-        <h3>Bedrooms</h3>
+        <ion-icon item-left name="pizza"></ion-icon>
+        <h3>Pizza</h3>
         <ion-note item-right>{{ property.bedrooms }}</ion-note>
       </ion-item>
       <ion-item>
-        <ion-icon item-left name="leaf"></ion-icon>
-        <h3>Bathrooms</h3>
-        <ion-note item-right>{{ property.bathrooms }}</ion-note>
+        <ion-icon item-left name="card"></ion-icon>
+        <h3>Valor da Compra</h3>
+        <ion-note item-right>{{ property.price }}</ion-note>
       </ion-item>
       <ion-item>
-        <ion-icon item-left name="pricetag"></ion-icon>
-        <h3>Asking Price</h3>
-        <ion-note item-right>{{ property.price }}</ion-note>
+        <ion-icon item-left name="wallet"></ion-icon>
+        <h3>Saldo em Carteira</h3>
+        <ion-note item-right>${{ property.bathrooms }}</ion-note>
       </ion-item>
       <button ion-item (click)="openBrokerDetail(property.broker)">
         <ion-avatar item-left>
@@ -39,11 +39,11 @@
     <ion-item>
       <button ion-button icon-left (click)="favorite(property)" clear item-left>
         <ion-icon name="star"></ion-icon>
-        Favorite
+        Favoritar
       </button>
       <button ion-button icon-left (click)="share(property)" clear item-right>
         <ion-icon name="share"></ion-icon>
-        Share
+        Compartilhar
       </button>
     </ion-item>
   </ion-card>
